@@ -1,1 +1,1 @@
-# Intership-vehicle-healt-monitoring-system
+# Internship-vehicle-health-monitoring-system
